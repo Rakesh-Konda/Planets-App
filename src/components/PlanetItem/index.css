@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.img {
+  width: 500px;
+  height: 500px;
+  margin: 10px;
+}
+.cou {
+  height: 400px;
+}
+.planet-container {
+  width: 400px;
+}
+.h1 {
+  color: blue;
+}
+.wh {
+  color: white;
+  text-align: center;
+}
